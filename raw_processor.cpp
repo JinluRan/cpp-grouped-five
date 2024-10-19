@@ -3,5 +3,6 @@
 using namespace std;
 
 int main() {
-	return 1;
+	cout << 123 << endl;
+	return 0;
 } 
