@@ -31,8 +31,8 @@
    |- 原文放置在这里，例如：sometext.txt
 |- (data)
     |- (analysed_data)
-    |- 统计信息放在这里，例如：[序号]_sometext.txt
+        |- 统计信息放在这里，例如：exp[序号]/sometext.txt
     |- (html_storage)
-    |- 多任务生成的html文件放在这里，文件名格式如：[序号]_sometext.html
+        |- 多任务生成的html文件放在这里，文件名格式如：exp[序号]/sometext.html
 
 ```
