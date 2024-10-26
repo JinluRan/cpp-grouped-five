@@ -1,0 +1,6 @@
+{
+    "multi_text_path": "texts\\",
+    "analysed_path": "task1_analysed\\",
+    "html_path": "task2_html\\",
+    "gathered_html_path": "result.html"
+}
